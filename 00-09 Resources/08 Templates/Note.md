@@ -1,6 +1,5 @@
 ---
 title: 
-tags:
+tags: 
+date: ""
 ---
-# Note
-

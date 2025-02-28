@@ -8,7 +8,9 @@
 - [2025-02-23 - Time to get to work](10%20Daily%20Notes/2025-02-23.md)
 - [2025-02-24 - Brainstorming with the colleagues](10%20Daily%20Notes/2025-02-24.md)
 - [2025-02-25 - the DayDreamer](10%20Daily%20Notes/2025-02-25.md)
-- [2025-02-26 - Output from the Early Presentation](10%20Daily%20Notes/2025-02-26.md)
+- [2025-02-26 - Outputs from the Early Presentation](10%20Daily%20Notes/2025-02-26.md)
+- [2025-02-28](10%20Daily%20Notes/2025-02-28.md)
+
 
 ### 11 Ideation
 - [11.01 List of Ideas](11%20Ideation/11.01%20List%20of%20Ideas.md)

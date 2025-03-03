@@ -9,7 +9,8 @@
 - [2025-02-24 - Brainstorming with the colleagues](10%20Daily%20Notes/2025-02-24.md)
 - [2025-02-25 - the DayDreamer](10%20Daily%20Notes/2025-02-25.md)
 - [2025-02-26 - Outputs from the Early Presentation](10%20Daily%20Notes/2025-02-26.md)
-- [2025-02-28](10%20Daily%20Notes/2025-02-28.md)
+- [2025-02-28 - Talking with my tutor](10%20Daily%20Notes/2025-02-28.md)
+- [2025-03-03 - Initializing paper prototyping...](10%20Daily%20Notes/2025-03-03.md)
 
 
 ### 11 Ideation

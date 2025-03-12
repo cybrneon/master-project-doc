@@ -1,7 +1,7 @@
 # 10-19 Research
 
 ### 10 Daily Notes
-- [2025-02-05 - Initializing...](10%20Daily%20Notes/2025-02-05.md)
+- [2025-02-05 - Initialising...](10%20Daily%20Notes/2025-02-05.md)
 - [2025-02-06 - Talking with Dominic Robson, my tutor](10%20Daily%20Notes/2025-02-06.md)
 - [2025-02-07 - Diving In](10%20Daily%20Notes/2025-02-07.md)
 - [2025-02-20 - Feedback from Dominic](10%20Daily%20Notes/2025-02-20.md)
@@ -12,7 +12,8 @@
 - [2025-02-28 - Talking with my tutor](10%20Daily%20Notes/2025-02-28.md)
 - [2025-03-03 - Initializing paper prototyping...](10%20Daily%20Notes/2025-03-03.md)
 - [2025-03-06 - Keep Prototyping](10%20Daily%20Notes/2025-03-06.md)
-
+- [2025-03-11 - Productive Day](10%20Daily%20Notes/2025-03-11.md)
+- [2025-03-12 - Thinking and establishing the concept](10%20Daily%20Notes/2025-03-12.md)
 
 ### 11 Ideation
 - [11.01 List of Ideas](11%20Ideation/11.01%20List%20of%20Ideas.md)

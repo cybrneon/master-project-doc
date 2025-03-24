@@ -17,6 +17,7 @@
 - [2025-03-18 - Refocusing the subject + (Keep) Paper Prototyping](10%20Daily%20Notes/2025-03-18.md)
 - [2025-03-19 - Prototyping with Scenarios](10%20Daily%20Notes/2025-03-19.md)
 - [2025-03-20 - Speaking with my tutor before the Mid-Crit](10%20Daily%20Notes/2025-03-20.md)
+- [2025-03-23 - Sunday Small Work Session](10%20Daily%20Notes/2025-03-23.md)
 
 ### 11 Ideation
 - [11.01 List of Ideas](11%20Ideation/11.01%20List%20of%20Ideas.md)

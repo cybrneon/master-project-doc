@@ -13,40 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-29 Prototypes/23 Scenarios/23.01 Scenarios.md",
+                "file": "10-19 Research/10 Daily Notes/2025-04-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.01 Scenarios"
+              "title": "2025-04-01"
             }
           },
           {
-            "id": "2eecdf3926dc03d2",
+            "id": "c58bbbec4f5a7ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Research/10 Daily Notes/2025-03-26.md",
+                "file": "20-29 Prototypes/23 Scenarios/23.02 Scenarios after Mid-Crit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-26"
-            }
-          },
-          {
-            "id": "e0bfc00161861d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-09 Resources/01 About/01.02 Project Concept.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.02 Project Concept"
+              "title": "23.02 Scenarios after Mid-Crit"
             }
           }
         ],
@@ -195,13 +181,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2eecdf3926dc03d2",
+  "active": "c58bbbec4f5a7ea7",
   "lastOpenFiles": [
+    "10-19 Research/10 Daily Notes/2025-04-01.md",
+    "20-29 Prototypes/23 Scenarios/23.02 Scenarios after Mid-Crit.md",
     "10-19 Research/README.md",
-    "10-19 Research/10 Daily Notes/2025-03-26.md",
-    "10-19 Research/10 Daily Notes/2025-03-23.md",
+    "20-29 Prototypes/21 Paper Prototypes/21.02 Experimentation II.md",
+    "00-09 Resources/09 Assets/Screenshot 2025-04-01 at 11.06.24.png",
+    "00-09 Resources/09 Assets/Screenshot 2025-03-19 at 13.29.09.png",
+    "00-09 Resources/09 Assets/Screenshot 2025-03-19 at 13.29.49.png",
+    "00-09 Resources/09 Assets/paper-prototypes-03032025.jpeg",
+    "00-09 Resources/09 Assets/Screenshot 2025-04-01 at 11.03.01.png",
+    "10-19 Research/10 Daily Notes/2025-03-31.md",
     "20-29 Prototypes/23 Scenarios/23.01 Scenarios.md",
+    "10-19 Research/10 Daily Notes/2025-03-26.md",
+    "20-29 Prototypes/22 UI Prototypes/22.01 UI Experimentation.md",
+    "20-29 Prototypes/README.md",
     "00-09 Resources/01 About/01.02 Project Concept.md",
+    "00-09 Resources/09 Assets/paper-prototypes-03032025.jpeg~RFde1e4.TMP",
+    "00-09 Resources/09 Assets/IMG_9374.jpeg~RFde02f.TMP",
+    "00-09 Resources/09 Assets/IMG_9364.jpeg~RFdde3b.TMP",
+    "00-09 Resources/09 Assets/IMG_9362.jpeg~RFddd22.TMP",
+    "10-19 Research/10 Daily Notes/2025-03-23.md",
     "00-09 Resources/09 Assets/meow-ai-test.png",
     "00-09 Resources/09 Assets/meow.png",
     "10-19 Research/10 Daily Notes/2025-03-03.md",
@@ -211,36 +212,22 @@
     "10-19 Research/10 Daily Notes/2025-03-18.md",
     "10-19 Research/10 Daily Notes/2025-02-28.md",
     "10-19 Research/10 Daily Notes/2025-02-26.md",
-    "20-29 Prototypes/21 Paper Prototypes/21.02 Experimentation II.md",
     "00-09 Resources/09 Assets/Storyboarding_2.jpg.sb-c0e286c1-8NJ34d",
     "00-09 Resources/09 Assets/Storyboarding_2.jpg",
     "00-09 Resources/09 Assets/Storyboarding.jpg",
     "00-09 Resources/09 Assets/Storyboarding_1.jpg",
     "10-19 Research/10 Daily Notes/2025-03-19.md",
     "10-19 Research/10 Daily Notes/2025-03-20.md",
-    "00-09 Resources/09 Assets/IMG_9384.jpeg",
     "20-29 Prototypes/23 Scenarios",
     "20-29 Prototypes/21 Paper Prototypes/21.01 Experimentation.md",
     "00-09 Resources/README.md",
     "00-09 Resources/01 About/01.01 Project Overview.md",
-    "20-29 Prototypes/22 UI Prototypes/22.01 UI Experimentation.md",
-    "20-29 Prototypes/README.md",
     "20-29 Prototypes/22 UI Prototypes",
     "10-19 Research/13 Field Research/13.01 Prototype Tests + Results.md",
-    "00-09 Resources/09 Assets/Screenshot 2025-03-19 at 13.29.49.png",
-    "00-09 Resources/09 Assets/Screenshot 2025-03-19 at 13.29.09.png",
-    "00-09 Resources/09 Assets/IMG_9376.jpeg",
     "30-39 Output/README.md",
     "10-19 Research/11 Ideation/11.01 List of Ideas.md",
-    "10-19 Research/12 Process & Methods/12.01 Decision Making.md",
-    "00-09 Resources/09 Assets/IMG_9374.jpeg",
-    "10-19 Research/10 Daily Notes/2025-02-25.md",
     "20-29 Prototypes/21 Paper Prototypes",
     "20-29 Prototypes/20 Initializing",
-    "10 Daily Notes",
-    "10-19 Research/16 Findings",
-    "10-19 Research/14 Analysis",
-    "10-19 Research/13 Literature Review",
-    "10-19 Research/13 Field Research"
+    "10 Daily Notes"
   ]
 }

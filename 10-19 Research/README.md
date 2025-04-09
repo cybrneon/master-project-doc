@@ -23,6 +23,7 @@
 - [2025-04-01 - Today's Restructuration](10%20Daily%20Notes/2025-04-01.md)
 - [2025-04-02 - Shared Crit with my Tutor and Mathis](10%20Daily%20Notes/2025-04-02.md)
 - [2025-04-03 - Okay, so I want to do something I like](10%20Daily%20Notes/2025-04-03.md)
+- [2025-04-07 - Talking with Pablo](10%20Daily%20Notes/2025-04-07.md)
 
 ### 11 Ideation
 - [11.01 List of Ideas](11%20Ideation/11.01%20List%20of%20Ideas.md)

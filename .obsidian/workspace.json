@@ -35,8 +35,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b5e6df58d79081e",
+  "active": "7416e45a39ff8a2a",
   "lastOpenFiles": [
-    "20-29 Prototypes/24 Worldbuilding/24.01 Storyboarding.md",
     "20-29 Prototypes/README.md",
+    "20-29 Prototypes/24 Worldbuilding/24.01 Storyboarding.md",
     "10-19 Research/10 Daily Notes/2025-04-07.md",
     "20-29 Prototypes/22 UI Prototypes/22.02 UI Experiments II.md",
     "20-29 Prototypes/22 UI Prototypes/22.01 UI Experiments.md",

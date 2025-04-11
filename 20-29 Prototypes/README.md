@@ -16,4 +16,4 @@
 - [23.02 Scenarios after Mid-Crit](23%20Scenarios/23.02%20Scenarios%20after%20Mid-Crit.md)
 
 ### 24 Worldbuilding
-- [24.01 Storyboarding](24%20Worldbuilding/24.01%20Storyboarding.md)
+- [24.01 The Creature's Story](24%20Worldbuilding/24.01%20The%20Creature's%20Story.md)

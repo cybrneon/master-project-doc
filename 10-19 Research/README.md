@@ -26,6 +26,7 @@
 - [2025-04-07 - Talking with Pablo](10%20Daily%20Notes/2025-04-07.md)
 - [2025-04-09 - Going back to AI](10%20Daily%20Notes/2025-04-09.md)
 - [2025-04-10 - DayDreamer, the movie](10%20Daily%20Notes/2025-04-10.md)
+- [2025-04-11](10%20Daily%20Notes/2025-04-11.md)
 
 ### 11 Ideation
 - [11.01 List of Ideas](11%20Ideation/11.01%20List%20of%20Ideas.md)
@@ -35,3 +36,4 @@
 
 ### 13 Field Research
 - [13.01 Prototype Tests + Results](13%20Field%20Research/13.01%20Prototype%20Tests%20+%20Results.md)
+- [13.02 Testing the Rabbit R1](13%20Field%20Research/13.02%20Testing%20the%20Rabbit%20R1.md)

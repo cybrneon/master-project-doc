@@ -14,6 +14,7 @@
 ### 23 Scenarios
 - [23.01 Scenarios](23%20Scenarios/23.01%20Scenarios.md)
 - [23.02 Scenarios after Mid-Crit](23%20Scenarios/23.02%20Scenarios%20after%20Mid-Crit.md)
+- [23.03 Scenarios - Deep](23%20Scenarios/23.03%20Scenarios%20-%20Deep.md)
 
 ### 24 Worldbuilding
 - [24.01 The Creature's Story](24%20Worldbuilding/24.01%20The%20Creature's%20Story.md)

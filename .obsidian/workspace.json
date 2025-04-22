@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Research/10 Daily Notes/2025-04-22.md",
+                "file": "10-19 Research/10 Daily Notes/2025-04-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "2025-04-21"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Research/13 Field Research/13.01 Prototype Tests + Results.md",
+                "file": "10-19 Research/10 Daily Notes/2025-04-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.01 Prototype Tests + Results"
+              "title": "2025-04-22"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,29 +181,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "affef3a07812e866",
+  "active": "dffa46a90c10fb8e",
   "lastOpenFiles": [
-    "10-19 Research/README.md",
-    "10-19 Research/10 Daily Notes/2025-04-22.md",
-    "10-19 Research/10 Daily Notes/2025-04-21.md",
+    "00-09 Resources/09 Assets/Screenshot 2025-04-22 at 17.04.30.png",
+    "00-09 Resources/09 Assets/Screenshot 2025-04-22 at 17.02.52.png",
+    "00-09 Resources/09 Assets/Screenshot 2025-04-22 at 17.02.29.png",
+    "00-09 Resources/09 Assets/Screenshot 2025-04-22 at 17.01.30.png",
+    "00-09 Resources/09 Assets/Screenshot 2025-04-22 at 17.01.02.png",
     "10-19 Research/13 Field Research/13.01 Prototype Tests + Results.md",
+    "10-19 Research/10 Daily Notes/2025-04-21.md",
+    "00-09 Resources/09 Assets/Home-weather.png",
+    "00-09 Resources/09 Assets/Home--weather-1.png",
+    "10-19 Research/10 Daily Notes/2025-04-22.md",
+    "10-19 Research/README.md",
     "00-09 Resources/09 Assets/Storyboarding_2 1.jpg",
     "00-09 Resources/09 Assets/Storyboarding.jpg",
     "00-09 Resources/09 Assets/master-project-weather-notebook.gif",
     "10-19 Research/10 Daily Notes/2025-04-18.md",
     "00-09 Resources/09 Assets/Screenshot 2025-04-20 at 14.17.42.png",
-    "00-09 Resources/09 Assets/Screenshot 2025-04-20 at 14.04.15.png",
-    "00-09 Resources/09 Assets/Screenshot 2025-04-20 at 13.57.38.png",
     "10-19 Research/10 Daily Notes/2025-02-06.md",
     "10-19 Research/10 Daily Notes/2025-02-05.md",
     "10-19 Research/10 Daily Notes/2025-04-16.md",
     "10-19 Research/10 Daily Notes/2025-04-15.md",
     "10-19 Research/10 Daily Notes/2025-04-11.md",
     "10-19 Research/10 Daily Notes/Untitled.md",
-    "00-09 Resources/09 Assets/IMG_9477.jpeg",
-    "00-09 Resources/09 Assets/IMG_9476.jpeg",
-    "00-09 Resources/09 Assets/BA6D7FB4-121D-4E2B-A257-0855E75E27C8.jpeg",
-    "00-09 Resources/09 Assets/IMG_9471.jpeg",
     "20-29 Prototypes/README.md",
     "20-29 Prototypes/23 Scenarios/23.03 Scenarios - Deep.md",
     "10-19 Research/10 Daily Notes/2025-04-10.md",
@@ -217,7 +219,6 @@
     "10-19 Research/10 Daily Notes/2025-04-03.md",
     "README.md",
     "10-19 Research/10 Daily Notes/2025-03-26.md",
-    "20-29 Prototypes/22 UI Prototypes/22.02 UI Experiments II.md",
     "20-29 Prototypes/24 Worldbuilding",
     "00-09 Resources/09 Assets/paper-prototypes-03032025.jpeg~RFde1e4.TMP",
     "00-09 Resources/09 Assets/IMG_9374.jpeg~RFde02f.TMP",

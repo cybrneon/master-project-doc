@@ -42,3 +42,6 @@
 ### 13 Field Research
 - [13.01 Prototype Tests + Results](13%20Field%20Research/13.01%20Prototype%20Tests%20+%20Results.md)
 - [13.02 Testing the Rabbit R1](13%20Field%20Research/13.02%20Testing%20the%20Rabbit%20R1.md)
+
+### 14 Electronics
+- [14.01 Thinking of Electronics](14%20Electronics/14.01%20Thinking%20of%20Electronics.md)

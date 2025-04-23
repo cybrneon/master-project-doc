@@ -31,7 +31,8 @@
 - [2025-04-16 - Feedback from Crit - Reframe it!](10%20Daily%20Notes/2025-04-16.md)
 - [2025-04-18 - The Reframing](10%20Daily%20Notes/2025-04-18.md)
 - [2025-04-21 - Going Back a Bit](10%20Daily%20Notes/2025-04-21.md)
-- [2025-04-22 - Weather states](10%20Daily%20Notes/2025-04-22.md)
+- [2025-04-22 - Weather states + Further Thinking](10%20Daily%20Notes/2025-04-22.md)
+- [2025-04-23 - Talking with my Tutor](10%20Daily%20Notes/2025-04-23.md)
 
 ### 11 Ideation
 - [11.01 List of Ideas](11%20Ideation/11.01%20List%20of%20Ideas.md)
